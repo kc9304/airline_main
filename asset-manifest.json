@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/airline_main/static/css/main.380e7b72.chunk.css",
+    "main.js": "/airline_main/static/js/main.3b93ce71.chunk.js",
+    "main.js.map": "/airline_main/static/js/main.3b93ce71.chunk.js.map",
+    "runtime-main.js": "/airline_main/static/js/runtime-main.c2eacbf1.js",
+    "runtime-main.js.map": "/airline_main/static/js/runtime-main.c2eacbf1.js.map",
+    "static/js/2.03853c10.chunk.js": "/airline_main/static/js/2.03853c10.chunk.js",
+    "static/js/2.03853c10.chunk.js.map": "/airline_main/static/js/2.03853c10.chunk.js.map",
+    "static/js/3.b46be29c.chunk.js": "/airline_main/static/js/3.b46be29c.chunk.js",
+    "static/js/3.b46be29c.chunk.js.map": "/airline_main/static/js/3.b46be29c.chunk.js.map",
+    "index.html": "/airline_main/index.html",
+    "static/css/main.380e7b72.chunk.css.map": "/airline_main/static/css/main.380e7b72.chunk.css.map",
+    "static/js/2.03853c10.chunk.js.LICENSE.txt": "/airline_main/static/js/2.03853c10.chunk.js.LICENSE.txt",
+    "static/media/logo.bdd51e5c.jpg": "/airline_main/static/media/logo.bdd51e5c.jpg",
+    "static/media/one.c9ac7e4e.webm": "/airline_main/static/media/one.c9ac7e4e.webm",
+    "static/media/reg.b0177388.jpg": "/airline_main/static/media/reg.b0177388.jpg",
+    "static/media/video.95158e0f.mp4": "/airline_main/static/media/video.95158e0f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2eacbf1.js",
+    "static/js/2.03853c10.chunk.js",
+    "static/css/main.380e7b72.chunk.css",
+    "static/js/main.3b93ce71.chunk.js"
+  ]
+}
